@@ -36,5 +36,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ```
 <p align="center">
   <img  src="https://count.getloli.com/get/@changfeng?theme=rule34" alt="访问次数">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=changfeng&layout=compact" alt="">
+
+[//]: # (  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=changfeng&layout=compact" alt="">)
 </p>
