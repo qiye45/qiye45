@@ -34,3 +34,7 @@ JavaScrip                5 repos             █░░░░░░░░░░�
 Markdown                 3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
+<p align="center">
+  <img  src="https://count.getloli.com/get/@changfeng?theme=rule34" alt="访问次数">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=changfeng&layout=compact" alt="">
+</p>
