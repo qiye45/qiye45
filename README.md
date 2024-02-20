@@ -10,11 +10,11 @@
 
 🌟 **My Skills**  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-JavaScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-3178C6?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff)
 ![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=fff)
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=fff)
@@ -29,8 +29,8 @@
 
 ```text
 Python                   11 repos            ████████████████░░░░░░░░░   90.04 % 
-Vue                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-JavaScrip                5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+JavaScrip                7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Vue                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 Markdown                 3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
