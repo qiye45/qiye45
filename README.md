@@ -46,6 +46,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 - The Witcher 3: Wild Hunt
 - Detroit: Become Human
+- Stardew Valley
 - ...
 
 
