@@ -26,7 +26,6 @@
 
 
 **I Mostly Coding** 
-
 ```text
 Python                   11 repos            ████████████████░░░░░░░░░   90.04 % 
 JavaScrip                7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
@@ -34,8 +33,25 @@ Vue                      5 repos             █░░░░░░░░░░�
 Markdown                 3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
+
+## 🌍 **Environment**
+
+![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-4fc08d?style=flat-square&logo=pycharm&logoColor=fff)
+![](https://img.shields.io/badge/Clion-05ABD0?style=flat-square&logo=clion&logoColor=fff)
+
+
+## 🎮 Playing **Games**
+
+- The Witcher 3: Wild Hunt
+- Detroit: Become Human
+- ...
+
+
+
 <p align="center">
   <img  src="https://count.getloli.com/get/@changfeng?theme=rule34" alt="访问次数">
 
-[//]: # (  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=changfeng&layout=compact" alt="">)
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiye45&layout=compact" alt="">
 </p>
