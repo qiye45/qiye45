@@ -1,11 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+changfeng)](https://git.io/typing-svg)
 
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qiye45&count_private=true&show_icons=true&hide=contribs&bg_color=15,f2f7fd,E0EAFC" />
+[//]: # (<a href="#">)
+
+[//]: # (  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qiye45&count_private=true&show_icons=true&hide=contribs&bg_color=15,f2f7fd,E0EAFC" />)
+
+[//]: # (</a>)
+
+<a>
+  <img align="right" width="450px" src="./github-metrics.svg"  alt="资料"/>
 </a>
 
 - 🌱 I’m currently learning: NLP, Vue, Reverse, JavaScrip
-- 👯 I’m collaborating on: [wechatDownload](https://github.com/qiye45/wechatDownload), [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload)
+- 👯 I’m collaborating
+  on: [wechatDownload](https://github.com/qiye45/wechatDownload), [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload)
 - 💬 Ask me about: [changfeng](https://t.me/changfengbox)
 
 🌟 **My Skills**  
@@ -24,23 +31,12 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C836%20hrs%2027%20mins-blue)
 
-
-**I Mostly Coding** 
-```text
-Python                   11 repos            ████████████████░░░░░░░░░   90.04 % 
-JavaScrip                7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Vue                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Markdown                 3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-```
-
 ## 🌍 **Environment**
 
 ![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-4fc08d?style=flat-square&logo=pycharm&logoColor=fff)
 ![](https://img.shields.io/badge/Clion-05ABD0?style=flat-square&logo=clion&logoColor=fff)
-
 
 ## 🎮 Playing **Games**
 
@@ -49,10 +45,11 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 - Stardew Valley
 - ...
 
-
-
 <p align="center">
+
   <img  src="https://count.getloli.com/get/@changfeng?theme=rule34" alt="访问次数">
 
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiye45&layout=compact" alt="">
 </p>
+
+
