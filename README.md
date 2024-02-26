@@ -11,7 +11,7 @@
 </a>
 
 - 🌱 I’m currently learning: NLP, Vue, Reverse, JavaScrip
-- 👯 I’m collaborating
+- 👯 I’m building
   on: [wechatDownload](https://github.com/qiye45/wechatDownload), [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload)
 - 💬 Ask me about: [changfeng](https://t.me/changfengbox)
 
