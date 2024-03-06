@@ -52,8 +52,7 @@
 
   <img  src="https://count.getloli.com/get/@changfeng?theme=rule34" alt="访问次数">
   
- <summary><b>Github Streaks</b></summary>
-<p align="Left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=qiye45" alt="qiye45" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=qiye45" alt="qiye45" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiye45&layout=compact" alt="qiye45">
 </p>
 
