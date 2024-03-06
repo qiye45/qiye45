@@ -49,7 +49,7 @@
 - ...
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qiye45" alt="qiye45" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiye45" style="max-width: 315xp;" alt="qiye45" />
 
   <img  src="https://count.getloli.com/get/@changfeng?theme=rule34" alt="访问次数">
   
