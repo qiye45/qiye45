@@ -55,4 +55,8 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiye45&layout=compact" alt="">
 </p>
 
+<details>
+ <summary><b>Github Streaks</b></summary>
+<p align="Left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=qiye45&theme=highcontrast" alt="qiye45" /></p>
+</details>
 
