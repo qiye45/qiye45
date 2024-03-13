@@ -38,7 +38,7 @@
 
 ![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/MacOS--9cf?style=flat-square&logo=Apple&logoColor=white)
+![](https://img.shields.io/badge/MacOS--9cf?style=social&logo=Apple)
 ![](https://img.shields.io/badge/PyCharm-4fc08d?style=flat-square&logo=pycharm&logoColor=fff)
 ![](https://img.shields.io/badge/Clion-05ABD0?style=flat-square&logo=clion&logoColor=fff)
 
