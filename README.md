@@ -3,7 +3,7 @@
 [//]: # (<a href="#">)
 
 [//]: # ()
-[//]: # (  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qiye45&count_private=true&show_icons=true&hide=contribs&bg_color=15,f2f7fd,E0EAFC" />)
+[//]: # (  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qiye45&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />)
 
 [//]: # ()
 [//]: # (</a>)
@@ -26,10 +26,10 @@
 ![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![](https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=fff)
 ![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=fff)
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
-![](https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=fff)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C836%20hrs%2027%20mins-blue)
