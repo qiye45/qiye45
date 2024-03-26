@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.77m added, 1.67k removed
+                                    240k added, 574 removed
                                 </div>
                             </section>
                             <section>
@@ -582,7 +582,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 24 Mar 2024, 15:57:11
+                            On 25 Mar 2024, 23:34:41
                         </div>
                     </section>
                 </div>
@@ -598,11 +598,11 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">110a2d73</span>
+                            <span class="code">4e7bc05e</span>
                             <span class="code">training/training_unit.py</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--2</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -610,14 +610,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -12,8 +12,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">import argparse<br /></span><span class="token prefix unchanged">·</span><span class="token line">import torch<br /></span><span class="token prefix unchanged">·</span><span class="token line">import yaml<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">from slicer2 import Slicer<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">from .slicer2 import Slicer<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">from config import config<br /></span><span class="token prefix unchanged">·</span><span class="token line">import sys<br /></span><span class="token prefix unchanged">·</span><span class="token line">import os</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -149,7 +149,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">inference_pipeline = pipeline(<br /></span><span class="token prefix unchanged">·</span><span class="token line">    task=Tasks.auto_speech_recognition,<br /></span><span class="token prefix unchanged">·</span><span class="token line">    model='iic/speech_paraformer-large-vad-punc_asr_nat-en-16k-common-vocab10020', local_dir=local_dir_root,<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    cache_dir=local_dir_root,model_revision="v2.0.4")<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    cache_dir=local_dir_root, model_revision="v2.0.4")<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">param_dict = {'use_timestamp': False}<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"># model = AutoModel(model="paraformer-zh", model_revision="v2.0.4",</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Mar 2024, 13:14:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Mar 2024, 14:20:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
