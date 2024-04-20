@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1270" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1214" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown a{color:#58a6ff;text-decoration:none}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.tag{color:#48428a}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -159,7 +159,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    14 Releases
+                                    15 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.95m added, 2.29k removed
+                                    2.79m added, 2.15k removed
                                 </div>
                             </section>
                             <section>
@@ -228,11 +228,11 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="26.26865671641791" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="26.26865671641791" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="26.26865671641791" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="26.26865671641791" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="26.26865671641791" y="0" width="193.73134328358208" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="29.11764705882353" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="29.11764705882353" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="29.11764705882353" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="29.11764705882353" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="29.11764705882353" y="0" width="190.88235294117646" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
@@ -243,7 +243,7 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">8 <small>open</small></span>
+                                <span class="no-wrap">9 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -499,6 +499,37 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Released
+                                        <span class="bold">微信视频号浏览器 9115，支持F12</span>
+                                        of
+                                        <span class="repo">qiye45/wechatVideoDownload</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">0.9115</span>
+                                        in
+                                        <span class="repo">qiye45/wechatVideoDownload</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -547,50 +578,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#57 程序内Win64.Trojan.Agent.Twhl 木马</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by zxcfdxc in <span class="repo">qiye45/wechatDownload</span></div>
-                                    <div class="comment">因为打包成了单文件版本，不好解决...</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#57 程序内Win64.Trojan.Agent.Twhl 木马</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by zxcfdxc in <span class="repo">qiye45/wechatDownload</span></div>
-                                    <div class="comment">#21
----原始邮件---
-发件人: @.&gt;
-发送时间: 2024年4月20日(周六) 下午3:07
-收件人: @.&gt;;
-抄送: @.***&gt;;
-主题: [qiye45/wechatDownload] 程序内Win64.Trojan.Agent.Twhl 木马 (Issue #57)
-腾讯管家报毒怎么回事儿
-—
-Reply to this email directly, view it on GitHub, or unsubscribe.
-You are receiving this because you are subscribed to this thread.Message ID: @.***&gt;</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -616,7 +603,7 @@ You are receiving this because you are subscribed to this thread.Message ID: @.*
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 18 Apr 2024, 23:59:44
+                            On 18 Apr 2024, 23:26:12
                         </div>
                     </section>
                 </div>
@@ -632,11 +619,11 @@ You are receiving this because you are subscribed to this thread.Message ID: @.*
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">2da5b11b</span>
-                            <span class="code">.github/ISSUE_TEMPLATE/🐛-bug-报告.md</span>
+                            <span class="code">61349a91</span>
+                            <span class="code">.github/ISSUE_TEMPLATE/功能要求.md</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet additions">++10</span>
+                                <span class="snippet deletions">--0</span>
                             </span>
                         </div>
                     </section>
@@ -644,14 +631,14 @@ You are receiving this because you are subscribed to this thread.Message ID: @.*
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,5 +1,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">---<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">name: Bug 报告<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">name: "\U0001F41B Bug 报告"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">about: Create a report to help us improve<br /></span><span class="token prefix unchanged">·</span><span class="token line">title: ''<br /></span><span class="token prefix unchanged">·</span><span class="token line">labels: ''</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,10 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">---<br /></span><span class="token prefix inserted">+</span><span class="token line">name: 功能要求<br /></span><span class="token prefix inserted">+</span><span class="token line">about: Suggest an idea for this project<br /></span><span class="token prefix inserted">+</span><span class="token line">title: ''<br /></span><span class="token prefix inserted">+</span><span class="token line">labels: ''<br /></span><span class="token prefix inserted">+</span><span class="token line">assignees: ''<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">---<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">**描述你想要的功能**</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Apr 2024, 23:15:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Apr 2024, 00:19:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
