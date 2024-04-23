@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 101 users
+                            Followed by 102 users
                         </div>
                     </section>
                     <section>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            138 issue comments
+                            140 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.70m added, 1.63k removed
+                                    2.87m added, 1.93k removed
                                 </div>
                             </section>
                             <section>
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    1701 Stargazers
+                                    1706 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -513,6 +513,64 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by ChitaGideon in <span class="repo">qiye45/wechatDownload</span></div>
+                                    <div class="comment">截个图看看吧，选上时间段试一试
+---原始邮件---
+发件人: @.&gt;
+发送时间: 2024年4月23日(周二) 上午10:46
+收件人: @.&gt;;
+抄送: @.@.&gt;;
+主题: Re: [qiye45/wechatDownload] 只导出url和标题的表格不用下载内容或者评论数 (Issue #62)
+等一会咯 (=・ω・=)
+ …
+ ---原始邮件--- 发件人: @.&gt; 发送时间: 2024年4月23日(周二) 上午9:45 收件人: @.&gt;; 抄送: @.&gt;; 主题: [qiye45/wechatDownload] 只导出url和标题的表格不用下载内容或者评论数 (Issue #62) 只导出url和标题的表格不用下载内容或者评论数 这样是不是会快很多。 现在我把这些选项全部取消掉之后，还是会很慢，明明不需要保持文章，还是要显示保存文章中 — Reply to this email directly, view it on GitHub, or unsubscribe. You are receiving this because you are subscribed to this thread.Message ID: @.&gt;
+文章少的话，就等下了，但文章多的时候，慢太多了；保存文章好像还会卡住不动，因为我没选保存文章，也不懂卡在哪
+—
+Reply to this email directly, view it on GitHub, or unsubscribe.
+You are receiving this because you commented.Message ID: @.***&gt;</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#58 我完全按照guideline中的指示操作，发现只能下载单篇文章。可以成功获取到公众号ID，但是无法批量下载。</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by stonexie in <span class="repo">qiye45/wechatDownload</span></div>
+                                    <div class="comment">#61
+---原始邮件---
+发件人: @.&gt;
+发送时间: 2024年4月23日(周二) 上午10:36
+收件人: @.&gt;;
+抄送: @.&gt;;"State @.&gt;;
+主题: Re: [qiye45/wechatDownload] 我完全按照guideline中的指示操作，发现只能下载单篇文章。可以成功获取到公众号ID，但是无法批量下载。 (Issue #58)
+UUR.6P2ZC.3ZF4W2.SUK.QF.png (view on web)
+ 我完全按照guideline中的指示操作，获取秘钥失败
+—
+Reply to this email directly, view it on GitHub, or unsubscribe.
+You are receiving this because you modified the open/close state.Message ID: @.***&gt;</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#62 只导出url和标题的表格不用下载内容或者评论数</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ChitaGideon in <span class="repo">qiye45/wechatDownload</span></div>
                                     <div class="comment">等一会咯 (=・ω・=)
 ---原始邮件---
 发件人: @.&gt;
@@ -587,70 +645,6 @@ You are receiving this because you are subscribed to this thread.Message ID: @.*
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#61 无法获取秘钥</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by xtbggqy in <span class="repo">qiye45/wechatDownload</span></div>
-                                    <div class="comment">没问题哒， 看看这个 https://github.com/qiye45/wechatDownload/issues/9#issuecomment-1889249416
----原始邮件---
-发件人: @.&gt;
-发送时间: 2024年4月22日(周一) 下午2:16
-收件人: @.&gt;;
-抄送: @.***&gt;;
-主题: [qiye45/wechatDownload] 无法获取秘钥 (Issue #61)
-image.png (view on web)
- 微信文章链接：https://mp.weixin.qq.com/s/yBwtmCEf_FXD0q2vQ0F77g
- 单篇文章可下载，可获取公众号ID
- https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzUxNjg4NDEzNA==&amp;scene=124#wechat_redirect
- 打开复制链接后，无法获取秘钥
- 注：梯子已关闭，在国内
-—
-Reply to this email directly, view it on GitHub, or unsubscribe.
-You are receiving this because you are subscribed to this thread.Message ID: @.***&gt;</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#61 无法获取秘钥</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by xtbggqy in <span class="repo">qiye45/wechatDownload</span></div>
-                                    <div class="comment">先看看视频教程咯，要用微信自带的浏览器打开
----原始邮件---
-发件人: @.&gt;
-发送时间: 2024年4月22日(周一) 下午2:16
-收件人: @.&gt;;
-抄送: @.***&gt;;
-主题: [qiye45/wechatDownload] 无法获取秘钥 (Issue #61)
-image.png (view on web)
- 微信文章链接：https://mp.weixin.qq.com/s/yBwtmCEf_FXD0q2vQ0F77g
- 单篇文章可下载，可获取公众号ID
- https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzUxNjg4NDEzNA==&amp;scene=124#wechat_redirect
- 打开复制链接后，无法获取秘钥
- 注：梯子已关闭，在国内
-—
-Reply to this email directly, view it on GitHub, or unsubscribe.
-You are receiving this because you are subscribed to this thread.Message ID: @.***&gt;</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -674,7 +668,7 @@ You are receiving this because you are subscribed to this thread.Message ID: @.*
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Apr 2024, 10:26:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Apr 2024, 11:17:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
