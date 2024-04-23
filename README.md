@@ -3,7 +3,7 @@
 [//]: # (<a href="#">)
 
 [//]: # ()
-[//]: # (  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qiye45&count_private=true&show_icons=true&hide=contribs&bg_color=15,f2f7fd,E0EAFC" />)
+[//]: # (  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qiye45&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />)
 
 [//]: # ()
 [//]: # (</a>)
@@ -26,10 +26,10 @@
 ![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![](https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=fff)
 ![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=fff)
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
-![](https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=fff)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C836%20hrs%2027%20mins-blue)
@@ -38,7 +38,6 @@
 
 ![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/MacOS--9cf?style=social&logo=Apple)
 ![](https://img.shields.io/badge/PyCharm-4fc08d?style=flat-square&logo=pycharm&logoColor=fff)
 ![](https://img.shields.io/badge/Clion-05ABD0?style=flat-square&logo=clion&logoColor=fff)
 
@@ -52,13 +51,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiye45"  width="315px" alt="qiye45" />
 
-  <img  src="https://count.getloli.com/get/@changfeng?theme=rule34" alt="访问次数">
+  <img  src="https://count.getloli.com/get/@changfeng" alt="访问次数">
   
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiye45&layout=compact" alt="qiye45">
 
 </p>
 
 [//]: # (<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiye45&size_weight=0.5&count_weight=0.5" alt="qiye45">)
-
-
+[//]: # (  <img  src="https://count.getloli.com/get/@changfeng?theme=rule34" alt="访问次数">)
 
