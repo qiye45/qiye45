@@ -23,6 +23,7 @@
 ![](https://img.shields.io/badge/-JavaScript-3178C6?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff)
+![](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=fff)
 ![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
