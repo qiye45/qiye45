@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            305 issue comments
+                            307 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.94m added, 2.17k removed
+                                    2.95m added, 2.30k removed
                                 </div>
                             </section>
                             <section>
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    2680 Stargazers
+                                    2681 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -572,6 +572,61 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#119 勾选默认项调整；批量下载增加暂停/取消按钮；备份正文增加原文链接；</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by CrossWow in <span class="repo">qiye45/wechatDownload</span></div>
+                                    <div class="comment">放哪里？
+---原始邮件---
+发件人: @.&gt;
+发送时间: 2024年6月12日(周三) 下午4:05
+收件人: @.&gt;;
+抄送: @.@.&gt;;
+主题: Re: [qiye45/wechatDownload] 勾选默认项调整；批量下载增加暂停/取消按钮；备份正文增加原文链接； (Issue #119)
+我在md格式后面加上原文链接咯，下个版本我加上保存选项的
+HTML格式增加原文链接能不能实现？！
+—
+Reply to this email directly, view it on GitHub, or unsubscribe.
+You are receiving this because you commented.Message ID: @.***&gt;</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#130 新的2.6版 监视剪贴板功能又失效了</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by 23456wangyawen in <span class="repo">qiye45/wechatDownload</span></div>
+                                    <div class="comment">等下个版本我修一下吧
+---原始邮件---
+发件人: @.&gt;
+发送时间: 2024年6月12日(周三) 下午2:09
+收件人: @.&gt;;
+抄送: @.***&gt;;
+主题: [qiye45/wechatDownload] 新的2.6版 监视剪贴板功能又失效了 (Issue #130)
+谢谢解决了下载为空白的问题。但，新的2.6版 监视剪贴板功能（勾选了）仍失效不可用。旧版使用正常。
+—
+Reply to this email directly, view it on GitHub, or unsubscribe.
+You are receiving this because you are subscribed to this thread.Message ID: @.***&gt;</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#125 初次使用总结，避坑指南</span>
                                     </div>
                                 </div>
@@ -622,66 +677,6 @@
 抄送: @.***&gt;;
 主题: Re: [qiye45/wechatDownload] 为什么总是闪退呀 (Issue #128)
 我是最新的2.6版本，也是经常闪退。希望能尽快修复
-—
-Reply to this email directly, view it on GitHub, or unsubscribe.
-You are receiving this because you are subscribed to this thread.Message ID: @.***&gt;</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#127 【功能建议】批量下载文章时，希望能增加进度信息。</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by hrbagang in <span class="repo">qiye45/wechatDownload</span></div>
-                                    <div class="comment">我看看能不能加上吧
----原始邮件---
-发件人: @.&gt;
-发送时间: 2024年6月11日(周二) 晚上8:46
-收件人: @.&gt;;
-抄送: @.***&gt;;
-主题: [qiye45/wechatDownload] 【功能建议】批量下载文章时，希望能增加进度信息。 (Issue #127)
-如题。
- 希望能增加如下进度信息：
- 进度百分比（当前已下载文章数/总预计文章数）
- 例：10%（10/100）
-—
-Reply to this email directly, view it on GitHub, or unsubscribe.
-You are receiving this because you are subscribed to this thread.Message ID: @.***&gt;</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#129 下载文章多了就卡住了，下次又要重新下载？</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by seagar0908 in <span class="repo">qiye45/wechatDownload</span></div>
-                                    <div class="comment">截图...看看issue，里面都有的
----原始邮件---
-发件人: @.&gt;
-发送时间: 2024年6月12日(周三) 凌晨3:24
-收件人: @.&gt;;
-抄送: @.***&gt;;
-主题: [qiye45/wechatDownload] 下载文章多了就卡住了，下次又要重新下载？ (Issue #129)
-描述该错误
- 1.下载文章多了就卡住不动了，我刷新微信公众号没有【访问频繁】的情况，不知道是软件原因还是微信公众号访问原因？
- 2.等待时间是不是设置越长越不会出现【频繁】的情况？我设置60秒还是存在卡住不动的情况
- 3.关闭软件重新下载能不能设置从哪篇文章开始下载？现在软件能支持的就是时间，之前的文章就跳过，可如果篇数过多（超过500篇），即使跳过还是存在卡住不下载的情况。有没有更好的方法可以规避这样的问题？
 —
 Reply to this email directly, view it on GitHub, or unsubscribe.
 You are receiving this because you are subscribed to this thread.Message ID: @.***&gt;</div>
@@ -748,7 +743,7 @@ You are receiving this because you are subscribed to this thread.Message ID: @.*
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jun 2024, 15:16:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jun 2024, 16:21:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
