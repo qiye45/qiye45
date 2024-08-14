@@ -20,7 +20,7 @@
 ## 🌟 **My Skills**  
 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-JavaScript-3178C6?style=flat-square&logo=JavaScript&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff)
 ![](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=fff)
