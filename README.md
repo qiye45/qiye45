@@ -9,7 +9,7 @@
 [//]: # (</a>)
 
 <a>
-  <img align="right" width="400px" src="./github-metrics.svg"  alt="资料"/>
+  <img align="right" width="450px" src="./github-metrics.svg"  alt="资料"/>
 </a>
 
 - 🌱 I’m currently learning: NLP, Reverse, JavaScrip
