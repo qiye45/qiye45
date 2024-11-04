@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            438 Commits
+                            439 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -874,7 +874,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">236d4cbc</span>
-                            <span class="code">code/17 Go开发Web应用/lesson35：Go开发Web应用（5）使用https/client/.idea/modules.xml</span>
+                            <span class="code">code/17 Go开发Web应用/lesson35：Go开发Web应用（5）使用https/server/.idea/modules.xml</span>
                             <span class="code">
                                 <span class="snippet additions">++8</span>
                                 <span class="snippet deletions">--0</span>
@@ -885,14 +885,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,8 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;?xml version="1.0" encoding="UTF-8"?&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;project version="4"&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line"> &lt;component name="ProjectModuleManager"&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">   &lt;modules&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">     &lt;module fileurl="file://$PROJECT_DIR$/.idea/client.iml" filepath="$PROJECT_DIR$/.idea/client.iml" /&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">   &lt;/modules&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line"> &lt;/component&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;/project&gt;<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,8 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;?xml version="1.0" encoding="UTF-8"?&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;project version="4"&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line"> &lt;component name="ProjectModuleManager"&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">   &lt;modules&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">     &lt;module fileurl="file://$PROJECT_DIR$/.idea/server.iml" filepath="$PROJECT_DIR$/.idea/server.iml" /&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">   &lt;/modules&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line"> &lt;/component&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;/project&gt;<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2024, 00:25:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Nov 2024, 01:17:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
