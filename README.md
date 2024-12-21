@@ -12,7 +12,7 @@
   <img align="right" width="450px" src="./github-metrics.svg"  alt="资料"/>
 </a>
 
-- 🌱 I’m currently learning: NLP, Reverse, JavaScrip
+- 🌱 I’m currently learning: AI, Reverse, JavaScrip
 - 👯 I’m building
   on: [wechatDownload](https://github.com/qiye45/wechatDownload), [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload)
 - 💬 Ask me about: [changfeng](https://t.me/changfengbox)
