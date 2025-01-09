@@ -16,7 +16,7 @@
 - 👯 I’m building
   on: [wechatDownload](https://github.com/qiye45/wechatDownload), [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload)
 - 💬 Ask me about: [changfeng](https://t.me/changfengbox)
-
+looking for work，wechat：changfeng998a
 ## 🌟 **My Skills**  
 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
