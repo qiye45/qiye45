@@ -20,10 +20,10 @@
 ## 🌟 **My Skills**  
 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=fff)
-![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=fff)
@@ -31,10 +31,11 @@
 ![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=fff)
 ![](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue) 
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
+![](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-[//]: # (![]&#40;https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white&#41;)
 [//]: # (![]&#40;https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff&#41;)
 [//]: # (![]&#40;https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff&#41;)
+[//]: # (![]&#40;https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff&#41;)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C836%20hrs%2027%20mins-blue)
@@ -44,8 +45,10 @@
 ![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/MacOS--9cf?style=social&logo=Apple)
-![](https://img.shields.io/badge/PyCharm-4fc08d?style=flat-square&logo=pycharm&logoColor=fff)
-![](https://img.shields.io/badge/Clion-05ABD0?style=flat-square&logo=clion&logoColor=fff)
+
+[//]: # (![]&#40;https://img.shields.io/badge/PyCharm-4fc08d?style=flat-square&logo=pycharm&logoColor=fff&#41;)
+[//]: # (![]&#40;https://img.shields.io/badge/-Goland-05ABD0?style=flat&logo=goland&#41;)
+[//]: # (![]&#40;https://img.shields.io/badge/Clion-05ABD0?style=flat-square&logo=clion&logoColor=fff&#41;)
 
 ## 🎮 Playing **Games**
 
