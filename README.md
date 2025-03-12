@@ -33,6 +33,8 @@
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
+
+[//]: # (![]&#40;https://img.shields.io/badge/Kubernetes-326CE5?style=flat-badge&logo=Kubernetes&logoColor=white&#41;)
 [//]: # (![]&#40;https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white&#41;)
 [//]: # (![]&#40;https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff&#41;)
 [//]: # (![]&#40;https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff&#41;)
