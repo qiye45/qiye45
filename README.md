@@ -64,8 +64,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiye45"  width="315px" alt="qiye45" />
 
   <img  src="https://count.getloli.com/get/@changfeng" alt="访问次数">
-  
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiye45&layout=compact" alt="qiye45">
+
+  <img  width="315px"  src="https://github-readme-stats.vercel.app/api?username=qiye45&count_private=true&show_icons=true" alt="Github状态"/>
+
+[//]: # (  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiye45&layout=compact" alt="qiye45">)
 
 </p>
 
