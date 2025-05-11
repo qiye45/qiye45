@@ -3,9 +3,11 @@
 [//]: # (<a href="#">)
 
 [//]: # ()
+
 [//]: # (  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qiye45&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />)
 
 [//]: # ()
+
 [//]: # (</a>)
 
 <a>
@@ -17,7 +19,7 @@
   on: [wechatDownload](https://github.com/qiye45/wechatDownload), [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload)
 - 💬 Ask me about: [changfeng](https://t.me/changfengbox)
 
-## 🌟 **My Skills**  
+## 🌟 **My Skills**
 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=flat-square)
@@ -29,15 +31,19 @@
 ![](https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=fff)
-![](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue) 
+![](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 
 [//]: # (![]&#40;https://img.shields.io/badge/Kubernetes-326CE5?style=flat-badge&logo=Kubernetes&logoColor=white&#41;)
+
 [//]: # (![]&#40;https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white&#41;)
+
 [//]: # (![]&#40;https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff&#41;)
+
 [//]: # (![]&#40;https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff&#41;)
+
 [//]: # (![]&#40;https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff&#41;)
 
 <!--START_SECTION:waka-->
@@ -50,7 +56,9 @@
 ![](https://img.shields.io/badge/MacOS--9cf?style=social&logo=Apple)
 
 [//]: # (![]&#40;https://img.shields.io/badge/PyCharm-4fc08d?style=flat-square&logo=pycharm&logoColor=fff&#41;)
+
 [//]: # (![]&#40;https://img.shields.io/badge/-Goland-05ABD0?style=flat&logo=goland&#41;)
+
 [//]: # (![]&#40;https://img.shields.io/badge/Clion-05ABD0?style=flat-square&logo=clion&logoColor=fff&#41;)
 
 ## 🎮 Playing **Games**
@@ -61,16 +69,17 @@
 - ...
 
 <p align="center">
+  <img  width="315px"  src="https://github-readme-stats.vercel.app/api?username=qiye45&count_private=true&show_icons=true" alt="Github状态"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiye45"  width="315px" alt="qiye45" />
 
   <img  src="https://count.getloli.com/get/@changfeng" alt="访问次数">
-
-  <img  width="315px"  src="https://github-readme-stats.vercel.app/api?username=qiye45&count_private=true&show_icons=true" alt="Github状态"/>
 
 [//]: # (  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiye45&layout=compact" alt="qiye45">)
 
 </p>
 
 [//]: # (<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiye45&size_weight=0.5&count_weight=0.5" alt="qiye45">)
+
 [//]: # (  <img  src="https://count.getloli.com/get/@changfeng?theme=rule34" alt="访问次数">)
 
