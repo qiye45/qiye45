@@ -70,7 +70,7 @@
 
 <p align="center">
 
-  <img  width="315px"  src="https://readmeservice-haleclipse.vercel.app/api?username=qiye45&count_private=true&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Github状态"/>
+  <img  width="315px"  src="https://readmeservice-haleclipse.vercel.app/api?username=qiye45&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Github状态"/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiye45"  width="315px" alt="qiye45" />
 
