@@ -69,7 +69,8 @@
 - ...
 
 <p align="center">
-  <img  width="315px"  src="https://github-readme-stats.vercel.app/api?username=qiye45&count_private=true&show_icons=true" alt="Github状态"/>
+
+  <img  width="315px"  src="https://readmeservice-haleclipse.vercel.app/api?username=qiye45&count_private=true&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Github状态"/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qiye45"  width="315px" alt="qiye45" />
 
@@ -78,6 +79,8 @@
 [//]: # (  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiye45&layout=compact" alt="qiye45">)
 
 </p>
+
+[//]: # (  <img  width="315px"  src="https://github-readme-stats.vercel.app/api?username=qiye45&count_private=true&show_icons=true" alt="Github状态"/>)
 
 [//]: # (<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiye45&size_weight=0.5&count_weight=0.5" alt="qiye45">)
 
