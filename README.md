@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning: AI, Go
 - 👯 I’m building
   on: [wechatDownload](https://github.com/qiye45/wechatDownload), [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload)
-- 💬 Ask me about: [changfeng](https://t.me/changfengbox)
+- 💬 Ask me about: [telegram](https://t.me/changfeng998) or [email](qiye4545@gmail.com)
 
 ## 🌟 **My Skills**
 
