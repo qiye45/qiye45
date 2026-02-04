@@ -47,7 +47,8 @@
 [//]: # (![]&#40;https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff&#41;)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C836%20hrs%2027%20mins-blue)
+
+[//]: # (![Code Time]&#40;http://img.shields.io/badge/Code%20Time-5%2C836%20hrs%2027%20mins-blue&#41;)
 
 ## 🌍 **Environment**
 
