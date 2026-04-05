@@ -28,12 +28,13 @@
 ![](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=fff)
 ![](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
-![](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![](https://img.shields.io/static/v1?label=&message=kafka&logo=apache-kafka&color=4f4f4f)
 
 
 [//]: # (![]&#40;https://img.shields.io/badge/Kubernetes-326CE5?style=flat-badge&logo=Kubernetes&logoColor=white&#41;)
