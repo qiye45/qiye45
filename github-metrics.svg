@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1143 issue comments
+                            1146 issue comments
                         </div>
                     </section>
                     <section>
@@ -228,11 +228,11 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="10.217706821480407" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="10.217706821480407" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="10.217706821480407" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="10.217706821480407" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="10.217706821480407" y="0" width="209.78229317851958" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="9.259796806966618" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="9.259796806966618" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="9.259796806966618" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="9.259796806966618" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="9.259796806966618" y="0" width="210.74020319303338" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
@@ -243,14 +243,14 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">32 <small>open</small></span>
+                                <span class="no-wrap">29 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">657 <small>closed</small></span>
+                                <span class="no-wrap">660 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -645,30 +645,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#174 mac版本在哪里获取</span>
+                                        <span class="issue">#559 请问是没有“在看”数据吗</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by cf48rty0 in <span class="repo">qiye45/wechatVideoDownload</span></div>
-                                    <div class="comment">合并到
-https://github.com/qiye45/wechatVideoDownload/issues/10</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#174 mac版本在哪里获取</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by cf48rty0 in <span class="repo">qiye45/wechatVideoDownload</span></div>
+                                    <div>opened by zhb1996 in <span class="repo">qiye45/wechatDownload</span></div>
+                                    <div class="comment">应该有的</div>
                                 </div>
                             </section>
                         </div>
@@ -680,11 +662,11 @@ https://github.com/qiye45/wechatVideoDownload/issues/10</div>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#175 直播分段时间能否关闭或设置更长自定义时长</span>
+                                        <span class="issue">#542 下载后，html、pdf都显示文章内表格的线框</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by haohaohub in <span class="repo">qiye45/wechatVideoDownload</span></div>
+                                    <div>opened by lostlosin in <span class="repo">qiye45/wechatDownload</span></div>
                                     <div class="comment">我看看吧</div>
                                 </div>
                             </section>
@@ -693,16 +675,16 @@ https://github.com/qiye45/wechatVideoDownload/issues/10</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#550 一直卡在开始获取密钥</span>
+                                        Closed
+                                        <span class="issue">#546 一直显示连接不到服务器，不知道有哪些可能性导致的？</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by luozelin0205-dotcom in <span class="repo">qiye45/wechatDownload</span></div>
-                                    <div class="comment">试试重启一下微信，会快很多</div>
+                                    <div>opened by jamesren128-ren in <span class="repo">qiye45/wechatDownload</span></div>
                                 </div>
                             </section>
                         </div>
@@ -715,11 +697,28 @@ https://github.com/qiye45/wechatVideoDownload/issues/10</div>
                                     </svg>
                                     <div class="content">
                                         Closed
-                                        <span class="issue">#550 一直卡在开始获取密钥</span>
+                                        <span class="issue">#544 一直无法成功获取密钥</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by luozelin0205-dotcom in <span class="repo">qiye45/wechatDownload</span></div>
+                                    <div>opened by putiyoujing in <span class="repo">qiye45/wechatDownload</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#555 每下载一篇文章，会提示一次“请等待打印机连接或取消连接”</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by 1012767541-spec in <span class="repo">qiye45/wechatDownload</span></div>
+                                    <div class="comment">检查一下电脑设置，可能是docs文件关联的问题</div>
                                 </div>
                             </section>
                         </div>
@@ -746,7 +745,7 @@ https://github.com/qiye45/wechatVideoDownload/issues/10</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Aug 2026, 23:38:41 (timezone Asia/Shanghai) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 10 Aug 2026, 00:42:17 (timezone Asia/Shanghai) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
