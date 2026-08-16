@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1150 issue comments
+                            1154 issue comments
                         </div>
                     </section>
                     <section>
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    14626 Stargazers
+                                    14629 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -228,11 +228,11 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="8.914616497829233" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="8.914616497829233" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="8.914616497829233" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="8.914616497829233" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="8.914616497829233" y="0" width="211.08538350217077" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="7.6410998552822" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="7.6410998552822" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="7.6410998552822" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="7.6410998552822" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="7.6410998552822" y="0" width="212.3589001447178" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
@@ -243,14 +243,14 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">28 <small>open</small></span>
+                                <span class="no-wrap">24 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">663 <small>closed</small></span>
+                                <span class="no-wrap">667 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -654,12 +654,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#559 请问是没有“在看”数据吗</span>
+                                        <span class="issue">#537 本地客户端已获取密钥成功；同一电脑微信内置浏览器打开付费文章能看到购买后正文；但单篇下载仍只保存预览段，疑似下载正文请求未携带付费文章购买态 Credential。</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by zhb1996 in <span class="repo">qiye45/wechatDownload</span></div>
-                                    <div class="comment">4.7新版本加上了</div>
+                                    <div>opened by kissmemory in <span class="repo">qiye45/wechatDownload</span></div>
+                                    <div class="comment">试试新版本，可以下载的</div>
                                 </div>
                             </section>
                         </div>
@@ -672,11 +672,11 @@
                                     </svg>
                                     <div class="content">
                                         Closed
-                                        <span class="issue">#559 请问是没有“在看”数据吗</span>
+                                        <span class="issue">#537 本地客户端已获取密钥成功；同一电脑微信内置浏览器打开付费文章能看到购买后正文；但单篇下载仍只保存预览段，疑似下载正文请求未携带付费文章购买态 Credential。</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by zhb1996 in <span class="repo">qiye45/wechatDownload</span></div>
+                                    <div>opened by kissmemory in <span class="repo">qiye45/wechatDownload</span></div>
                                 </div>
                             </section>
                         </div>
@@ -688,12 +688,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#562 4.6版本，同一日期下如果有多篇文章，批量下载只能下载一篇</span>
+                                        <span class="issue">#548 可以根据链接下载单篇文章，但无法读取公众号id</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by leafcad in <span class="repo">qiye45/wechatDownload</span></div>
-                                    <div class="comment">没有群发的下载不了</div>
+                                    <div>opened by tzd307 in <span class="repo">qiye45/wechatDownload</span></div>
+                                    <div class="comment">合并到 https://github.com/qiye45/wechatDownload/issues/548</div>
                                 </div>
                             </section>
                         </div>
@@ -706,11 +706,11 @@
                                     </svg>
                                     <div class="content">
                                         Closed
-                                        <span class="issue">#562 4.6版本，同一日期下如果有多篇文章，批量下载只能下载一篇</span>
+                                        <span class="issue">#548 可以根据链接下载单篇文章，但无法读取公众号id</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by leafcad in <span class="repo">qiye45/wechatDownload</span></div>
+                                    <div>opened by tzd307 in <span class="repo">qiye45/wechatDownload</span></div>
                                 </div>
                             </section>
                         </div>
@@ -722,12 +722,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#562 4.6版本，同一日期下如果有多篇文章，批量下载只能下载一篇</span>
+                                        <span class="issue">#518 不能下载贴图文章</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by leafcad in <span class="repo">qiye45/wechatDownload</span></div>
-                                    <div class="comment">带上链接</div>
+                                    <div>opened by xbfuye in <span class="repo">qiye45/wechatDownload</span></div>
+                                    <div class="comment">4.7新版本支持啦</div>
                                 </div>
                             </section>
                         </div>
@@ -754,7 +754,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Aug 2026, 11:06:19 (timezone Asia/Shanghai) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 16 Aug 2026, 12:42:18 (timezone Asia/Shanghai) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
